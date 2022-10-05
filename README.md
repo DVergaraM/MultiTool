@@ -1,6 +1,10 @@
 # MultiTool
-*Installation*
+**Installation**
+```bash
 pip install -r requirements.txt
+```
 
-*Run*
+**Run**
+```bash
 python main.py
+```
